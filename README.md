@@ -1,22 +1,6 @@
-# Getting Started with Create React App and Redux
+# Disney Plus Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+ [Hosted Link](disney-plus-ekxxf4yiw-swatipriya87899.vercel.app)
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `react-slick`
-
-npm install react-slick --save
-
-#### Also install slick-carousel for css and font
-npm install slick-carousel
+![Screenshot from 2023-09-21 11-57-40](https://github.com/swatipriya87899/disney-plus-clone/assets/84177984/1db1cf2e-7aaa-4e50-8e6f-561fbb8afa93)
